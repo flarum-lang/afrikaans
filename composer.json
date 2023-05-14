@@ -1,20 +1,20 @@
 {
-	"name": "flarum-lang/xxish",
+	"name": "flarum-lang/afrikaans",
 	"type": "flarum-extension",
-	"description": "Xxish language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/xxish",
+	"description": "Afrikaans language pack for Flarum.",
+	"homepage": "https://github.com/flarum-lang/afrikaans",
 	"keywords": [
 		"locale",
 		"flarum",
 		"flarum-locale",
-		"xx-locale",
-		"xxish-locale",
-		"xxish"
+		"af-locale",
+		"afrikaans-locale",
+		"afrikaans"
 	],
 	"license": "MIT",
 	"support": {
-		"issues": "https://github.com/flarum-lang/xxish/issues",
-		"source": "https://github.com/flarum-lang/xxish"
+		"issues": "https://github.com/flarum-lang/afrikaans/issues",
+		"source": "https://github.com/flarum-lang/afrikaans"
 	},
 	"require": {
 		"flarum/core": "^1.6"
@@ -23,7 +23,7 @@
 	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
-			"title": "Xxish",
+			"title": "Afrikaans",
 			"category": "language",
 			"icon": {
 				"image": "icon.svg",
@@ -32,8 +32,8 @@
 			}
 		},
 		"flarum-locale": {
-			"code": "xx",
-			"title": "Xxish"
+			"code": "af",
+			"title": "Afrikaans"
 		},
 		"extiverse": {
 			"discuss": ""
