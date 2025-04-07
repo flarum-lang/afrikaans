@@ -64,6 +64,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`fof/horizon`](https://github.com/FriendsOfFlarum/horizon) | [![Translation status](https://weblate.rob006.net/widgets/flarum/af/fof-horizon/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-horizon/af/) |
 
 <!-- fof-extensions-list-stop -->
 
