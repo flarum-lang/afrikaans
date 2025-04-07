@@ -10,3 +10,8 @@ CHANGELOG
 * Updated Day.js translations.
 
 
+**Added support for new extensions**:
+
+* [`fof/horizon`](https://github.com/FriendsOfFlarum/horizon)
+
+
