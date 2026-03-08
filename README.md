@@ -44,8 +44,8 @@ php flarum cache:clear
 
 | Component | Status |
 | --- | --- |
-| [Core](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/af/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/af/) |
-| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/af/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/af/) |
+| [Core](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/af/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/core/af/) |
+| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum2/af/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/validation/af/) |
 
 
 ## Translation status for official extensions
@@ -64,7 +64,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
-| [`fof/horizon`](https://github.com/FriendsOfFlarum/horizon) | [![Translation status](https://weblate.rob006.net/widgets/flarum/af/fof-horizon/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-horizon/af/) |
+| [`fof/horizon`](https://github.com/FriendsOfFlarum/horizon) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/af/fof-horizon/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-horizon/af/) |
 
 <!-- fof-extensions-list-stop -->
 
