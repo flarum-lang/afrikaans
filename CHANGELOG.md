@@ -12,6 +12,6 @@ CHANGELOG
 
 **Added support for new extensions**:
 
-* [`fof/horizon`](https://github.com/FriendsOfFlarum/horizon)
+* [`fof/horizon`](https://github.com/FriendsOfFlarum/horizon) (53% complete)
 
 
